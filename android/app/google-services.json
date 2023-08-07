@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "649783742740",
+    "firebase_url": "https://sisoil-9cb24-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sisoil-9cb24",
+    "storage_bucket": "sisoil-9cb24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649783742740:android:c5fb27e0c5c331fe743201",
+        "android_client_info": {
+          "package_name": "com.aplikasi.newagrisoil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649783742740-f1e0e4i99hj810b16q584liiegitbioc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAJFHAQ2zs_JVFnviGnqMvOFWiLENwaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649783742740-f1e0e4i99hj810b16q584liiegitbioc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649783742740-f100bbj3195ncsdk4lm2m5t3g69s8pel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAgrisoilApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649783742740:android:662236d79ae16965743201",
+        "android_client_info": {
+          "package_name": "com.example.agro_soy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649783742740-f1e0e4i99hj810b16q584liiegitbioc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAJFHAQ2zs_JVFnviGnqMvOFWiLENwaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649783742740-f1e0e4i99hj810b16q584liiegitbioc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649783742740-f100bbj3195ncsdk4lm2m5t3g69s8pel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAgrisoilApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
