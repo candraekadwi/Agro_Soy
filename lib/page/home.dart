@@ -3,6 +3,7 @@
 import 'package:agro_soy/page/tabel.dart';
 
 import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
@@ -10,6 +11,7 @@ import 'package:percent_indicator/linear_percent_indicator.dart';
 import 'package:syncfusion_flutter_gauges/gauges.dart';
 import '../constants.dart';
 import '../cubit/cubit.dart';
+
 import '../cubit/states.dart';
 
 class home extends StatefulWidget {
