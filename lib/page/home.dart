@@ -1,6 +1,7 @@
 // ignore_for_file: camel_case_types, non_constant_identifier_names, avoid_types_as_parameter_names, sized_box_for_whitespace, prefer_const_constructors_in_immutables, avoid_print, unused_import
 
 import 'package:agro_soy/page/tabel.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
